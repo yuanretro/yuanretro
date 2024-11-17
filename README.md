@@ -1,5 +1,5 @@
 - 👋 这里是ljiaxuan1811的主页哦
-- 👀 HAM，粥，原，编程（C++，JS菜鸟），古董科技，公共交通
+- 👀 HAM，粥，原，编程（C++，Java，JS，Python菜鸟），古董科技，公共交通
 - 🌱 高一
 - 📫 lijiaxuan1811@163.com
 - 😄 国内呼号BI4LPZ
