@@ -2,8 +2,7 @@
 - 👀 HAM，原，编程（C++，Java，JS，Python菜鸟），古董科技，公共交通
 - 🌱 高一
 - 📫 lijiaxuan1811@163.com
-- 😄 个人网站http://www.yuanshen.dev/
-http://www.lijiaxuan.xyz/
+- 😄 个人网站http://www.yuanshen.dev/ http://www.lijiaxuan.xyz/ http://www.collei.xyz/ http://www.keqing.org/ （好多哦~）
 - 😆 集体导航页http://www.genshinimpact.net/
 - ⚡ 国内呼号BI4LPZ，加拿大呼号VA3LPZ
 ![rac_logo_long](https://github.com/user-attachments/assets/11d31453-16fa-4614-b307-6afa7bee3522)
